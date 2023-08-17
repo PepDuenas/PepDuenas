@@ -3,7 +3,7 @@
 <h3 align="center">A passionate future data scientist from México.</h3>
 <img align="right" alt="Coding" width="400" src=https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif>
 
-- 🔭 I’m currently working on [Study project-Sales prediction with Time Series](Demo_week_Proyecto_Final__JoseEnrique_Dueñas_Arizmendi_G9.ipynb)
+- 🔭 I’m currently working on [Study project-Sales prediction with Time Series](Copia_de_Proyecto_Final__JoseEnrique_Dueñas_Arizmendi_G9.ipynb)
 
 - 🌱 I’m currently learning **Python,Machine Learning,SQL,PowerBI**
 
